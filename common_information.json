@@ -1,0 +1,74 @@
+[
+  {
+    "category": "Pengiriman",
+    "topic": "Estimasi Waktu Pengiriman",
+    "question": "Berapa lama estimasi waktu pengiriman pesanan saya?",
+    "answer": "Estimasi waktu pengiriman sangat bergantung pada jenis layanan ekspedisi yang Anda pilih dan lokasi tujuan. Untuk layanan Reguler, biasanya memakan waktu 2-4 hari kerja. Untuk layanan Same Day atau Instant, barang akan tiba pada hari yang sama asalkan pesanan dikonfirmasi sebelum pukul 14:00 WIB."
+  },
+  {
+    "category": "Pengiriman",
+    "topic": "Lacak Pesanan",
+    "question": "Bagaimana cara melacak resi pesanan saya?",
+    "answer": "Anda dapat melacak pesanan Anda dengan masuk ke menu 'Pesanan Saya' di akun Anda, pilih pesanan yang ingin dilacak, lalu klik tombol 'Lacak Pesanan'. Nomor resi dan status pengiriman terbaru akan ditampilkan di halaman tersebut."
+  },
+  {
+    "category": "Pengiriman",
+    "topic": "Pilihan Ekspedisi",
+    "question": "Apa saja pilihan kurir yang tersedia untuk pengiriman?",
+    "answer": "Kami bekerja sama dengan berbagai layanan logistik terpercaya seperti JNE, J&T, SiCepat, AnterAja, GoSend, dan GrabExpress. Pilihan kurir yang tersedia mungkin berbeda tergantung pada lokasi pengiriman Anda."
+  },
+  {
+    "category": "Pembayaran",
+    "topic": "Metode Pembayaran",
+    "question": "Metode pembayaran apa saja yang bisa digunakan?",
+    "answer": "Kami menerima berbagai metode pembayaran, termasuk Transfer Bank (BCA, Mandiri, BNI, BRI), Kartu Kredit/Debit berlogo Visa dan Mastercard, serta E-Wallet seperti GoPay, OVO, Dana, dan ShopeePay."
+  },
+  {
+    "category": "Pembayaran",
+    "topic": "Cash on Delivery (COD)",
+    "question": "Apakah toko ini mendukung pembayaran di tempat (COD)?",
+    "answer": "Ya, kami menyediakan layanan Cash on Delivery (COD) untuk wilayah tertentu dan produk tertentu. Pastikan Anda menyiapkan uang tunai pas untuk diberikan kepada kurir saat barang tiba."
+  },
+  {
+    "category": "Pembayaran",
+    "topic": "Kode Promo",
+    "question": "Bagaimana cara menggunakan kode promo atau voucher diskon?",
+    "answer": "Pada halaman 'Checkout', temukan kolom 'Gunakan Voucher/Kode Promo'. Masukkan kode promo yang Anda miliki lalu klik 'Terapkan'. Total belanja Anda akan otomatis terpotong sesuai dengan nominal diskon."
+  },
+  {
+    "category": "Pembayaran",
+    "topic": "Pembatalan Pesanan",
+    "question": "Bagaimana cara membatalkan pesanan yang belum dibayar?",
+    "answer": "Pesanan yang belum dibayar akan otomatis dibatalkan oleh sistem jika melewati batas waktu pembayaran (biasanya 24 jam). Anda juga bisa membatalkannya secara manual melalui menu 'Pesanan Saya', pilih pesanan, lalu klik 'Batalkan Pesanan'."
+  },
+  {
+    "category": "Pengembalian",
+    "topic": "Prosedur Retur",
+    "question": "Bagaimana cara melakukan retur atau pengembalian barang jika produk yang diterima cacat?",
+    "answer": "Jika produk yang Anda terima cacat atau rusak, Anda dapat mengajukan retur dalam waktu maksimal 3 hari sejak barang diterima. Masuk ke menu 'Pesanan Saya', pilih pesanan terkait, klik 'Ajukan Pengembalian', dan unggah foto/video unboxing sebagai bukti."
+  },
+  {
+    "category": "Pengembalian",
+    "topic": "Waktu Proses Refund",
+    "question": "Berapa lama proses pengembalian dana (refund) sampai masuk ke rekening saya?",
+    "answer": "Proses refund akan dilakukan setelah barang retur kami terima dan kami periksa. Setelah disetujui, dana akan dikembalikan dalam waktu 2-5 hari kerja untuk E-Wallet/Transfer Bank, dan 7-14 hari kerja untuk Kartu Kredit."
+  },
+  {
+    "category": "Pengembalian",
+    "topic": "Syarat Tukar Barang",
+    "question": "Apakah saya bisa menukar barang dengan warna atau ukuran yang berbeda?",
+    "answer": "Penukaran ukuran atau warna hanya dapat dilakukan jika stok pengganti tersedia dan barang yang ingin ditukar belum pernah digunakan, tag masih utuh, serta masih dalam masa garansi tukar (maksimal 3 hari setelah barang diterima)."
+  },
+  {
+    "category": "Akun",
+    "topic": "Lupa Password",
+    "question": "Bagaimana cara mereset password akun saya?",
+    "answer": "Klik 'Lupa Password' pada halaman login. Masukkan alamat email atau nomor telepon yang terdaftar. Kami akan mengirimkan tautan atau kode OTP untuk mengatur ulang password Anda."
+  },
+  {
+    "category": "Akun",
+    "topic": "Ubah Alamat",
+    "question": "Bagaimana cara mengubah atau menambah alamat pengiriman?",
+    "answer": "Masuk ke menu 'Akun Saya', lalu pilih bagian 'Daftar Alamat'. Anda dapat mengubah alamat yang sudah ada dengan mengklik 'Ubah', atau menambahkan alamat baru dengan mengklik tombol 'Tambah Alamat Baru'."
+  }
+]
